@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilmModal/Director renders correctly 1`] = `
+<div
+  className="makeStyles-directorContainer-1"
+>
+  <div
+    className="MuiAvatar-root MuiAvatar-circle makeStyles-directorIcon-2 MuiAvatar-colorDefault"
+  >
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root MuiAvatar-fallback"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"
+      />
+    </svg>
+  </div>
+  <div
+    className="makeStyles-directorInfo-3"
+  >
+    <p
+      className="MuiTypography-root MuiTypography-body1"
+    >
+      test name
+    </p>
+    <p
+      className="MuiTypography-root makeStyles-directorLabel-4 MuiTypography-body1"
+    >
+      producer
+    </p>
+  </div>
+</div>
+`;

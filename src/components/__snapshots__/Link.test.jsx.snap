@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Links ExternalLink renders correctly 1`] = `
+<a
+  className="MuiTypography-root MuiLink-root MuiLink-underlineHover MuiTypography-colorPrimary"
+  onBlur={[Function]}
+  onFocus={[Function]}
+  target="_blank"
+  to="/"
+>
+  test link
+</a>
+`;

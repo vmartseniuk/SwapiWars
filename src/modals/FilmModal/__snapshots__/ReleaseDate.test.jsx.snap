@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilmModal/ReleaseDate renders correctly 1`] = `
+<div
+  className="makeStyles-realiseDate-1"
+>
+  Release date:
+  2020:11:05
+</div>
+`;

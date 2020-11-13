@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FilmModal/Actors renders correctly 1`] = `
+<div
+  className="makeStyles-actorsContainer-1"
+>
+  <div
+    className="makeStyles-text-2"
+  >
+    Characters:
+  </div>
+  <div
+    className="css-n9lk9p"
+  >
+    <div
+      className="css-11c1yvw"
+    />
+    <div
+      className="css-1hhfbxh"
+    />
+    <div
+      className="css-1tz7pd6"
+    />
+    <div
+      className="css-1oe4hzs"
+    />
+    <div
+      className="css-1p48bko"
+    />
+    <div
+      className="css-18pv7bu"
+    />
+  </div>
+  <div
+    className="MuiGrid-root MuiGrid-container"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"
+    >
+      name1
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-3"
+    >
+      name2
+    </div>
+  </div>
+</div>
+`;

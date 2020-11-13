@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card/Back renders correctly 1`] = `
+<div
+  className="flippy-card flippy-back makeStyles-front-1"
+  style={
+    Object {
+      "transitionDuration": "0.6s",
+    }
+  }
+>
+  <p
+    className="MuiTypography-root makeStyles-title-2 MuiTypography-body1"
+  >
+    I
+      episode
+  </p>
+  <p
+    className="MuiTypography-root makeStyles-opening-3 MuiTypography-body1"
+  >
+    
+  </p>
+  <button
+    className="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-4 MuiButton-outlinedSizeLarge MuiButton-sizeLarge"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      show more
+    </span>
+  </button>
+</div>
+`;

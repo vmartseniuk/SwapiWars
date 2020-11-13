@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card renders correctly 1`] = `
+<div
+  className="flippy-container"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  onTouchEnd={[Function]}
+  onTouchStart={[Function]}
+  style={
+    Object {
+      "height": "400px",
+      "margin": "0 auto",
+      "width": "320px",
+    }
+  }
+>
+  <div
+    className="flippy-cardContainer-wrapper horizontal"
+  >
+    <div
+      className="flippy-cardContainer  "
+    >
+      <div
+        className="flippy-card flippy-front makeStyles-front-1"
+        style={
+          Object {
+            "transitionDuration": "0.6s",
+          }
+        }
+      >
+        <div
+          className="makeStyles-background-3 makeStyles-background-7"
+        >
+          <h5
+            className="MuiTypography-root makeStyles-background_episode-4 MuiTypography-h5"
+          >
+            
+          </h5>
+          <h5
+            className="MuiTypography-root makeStyles-background_text-5 MuiTypography-h5"
+          >
+            episode
+          </h5>
+        </div>
+        <p
+          className="MuiTypography-root makeStyles-title-6 MuiTypography-body1"
+        />
+      </div>
+      <div
+        className="flippy-card flippy-back makeStyles-front-8"
+        style={
+          Object {
+            "transitionDuration": "0.6s",
+          }
+        }
+      >
+        <p
+          className="MuiTypography-root makeStyles-title-9 MuiTypography-body1"
+        >
+          
+            episode
+        </p>
+        <p
+          className="MuiTypography-root makeStyles-opening-10 MuiTypography-body1"
+        />
+        <button
+          className="MuiButtonBase-root MuiButton-root MuiButton-outlined makeStyles-button-11 MuiButton-outlinedSizeLarge MuiButton-sizeLarge"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiButton-label"
+          >
+            show more
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
