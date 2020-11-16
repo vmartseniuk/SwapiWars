@@ -18,11 +18,6 @@ const theme = createMuiTheme({
   typography: {
     htmlFontSize: 10,
     fontFamily: ['Roboto', '"Open Sans"', 'StarJedi'].join(','),
-    // fontFamily: [
-    //   '"Star Jedi"',
-    //   'Open Sans',
-    //   'sans-serif',
-    // ].join(','),
     body1: {
       fontFamily: 'Roboto',
     },

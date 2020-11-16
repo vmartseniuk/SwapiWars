@@ -32,7 +32,6 @@ const useStyles = makeStyles((theme) => ({
     top: "40%",
     left: "50%",
     transform: "translate(-50%,-50%)",
-    // background: colors.cardLabelBg,
     backgroundSize: "cover",
     backgroundPosition: "center center",
     backgroundImage: `linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6)), url(${img})`,
